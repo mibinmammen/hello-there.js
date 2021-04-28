@@ -1,1 +1,1 @@
-let undefined= myFuture
+let myFuture= undefined
