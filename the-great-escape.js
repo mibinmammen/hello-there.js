@@ -1,2 +1,2 @@
-console.log('"'"escapeFromDelimiters'""')
+console.log('escapeFromDelimiters',)
 console.log(\escapeTheEscape)
